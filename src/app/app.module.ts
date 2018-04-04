@@ -1,4 +1,4 @@
-import { ActivityService } from './services/ActivityService.service.ts.service';
+import { ActivityService } from './services/ActivityService.service';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
